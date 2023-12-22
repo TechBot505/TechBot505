@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://loquacious-biscuit-4a2990.netlify.app/](https://loquacious-biscuit-4a2990.netlify.app/)
-
 - 💬 Ask me about **MERN, UI/UX Designing, React-Native**
 
 - 📫 How to reach me **rohitdhanotia2003@gmail.com**

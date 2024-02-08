@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techbot505&label=Profile%20views&color=0e75b6&style=flat" alt="techbot505" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+# 💫 About Me:
 
-- 💬 Ask me about **MERN, UI/UX Designing, React-Native**
+- 🔭 I’m currently working on a **Computer Vision** Project
+
+- 👯 I’m looking to collaborate on **Open Source Development**
+
+- 🌱 I’m currently learning React Native Development and Computer Vision using Python
 
 - 📫 How to reach me **rohitdhanotia2003@gmail.com**
 
 - ⚡ Fun fact **I love playing Piano**
-
-
-
-# 💫 About Me:
-🔭 I’m currently working on a Computer Vision Project<br>👯 I’m looking to collaborate on Open Source Development<br>🌱 I’m currently learning React Native Development and Computer Vision using Python<br>⚡ Fun fact: I love playing Piano
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rohit_dhanotia_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-dhanotia-936345192) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rohitdhanotia2003) 
@@ -32,5 +30,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TechBot505&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

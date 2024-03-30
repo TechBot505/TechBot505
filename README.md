@@ -5,11 +5,11 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on a **Computer Vision** Project
+- 🔭 I’m currently working on a **RAG-Langchain** Project
 
 - 👯 I’m looking to collaborate on **Open Source Development**
 
-- 🌱 I’m currently learning React Native Development and Computer Vision using Python
+- 🌱 I’m currently learning React Native Development and RAG using Python
 
 - 📫 How to reach me **rohitdhanotia2003@gmail.com**
 

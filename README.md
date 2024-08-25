@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on a **RAG Project** with **Langchain, Groq and NextJS**
+- 🔭 I’m currently working on a Full Stack RAG Project **AI Alchemy** with **NextJS, Gemini, Convex and PostgreSql**
   
 - 👯 I’m looking to collaborate on **Open Source Development** Projects
   
